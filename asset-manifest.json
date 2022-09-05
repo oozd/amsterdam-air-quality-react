@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/amsterdam-air-quality-react/static/js/main.bc711009.js",
+    "static/media/app-bar-logo.png": "/amsterdam-air-quality-react/static/media/app-bar-logo.1534fa7df6c8d2e44c95.png",
+    "index.html": "/amsterdam-air-quality-react/index.html",
+    "main.bc711009.js.map": "/amsterdam-air-quality-react/static/js/main.bc711009.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bc711009.js"
+  ]
+}
